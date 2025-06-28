@@ -1,0 +1,13 @@
+date,category,sales,products_sold
+2024-01-01,Electronics,1500,30
+2024-01-01,Clothing,800,50
+2024-01-02,Electronics,1700,35
+2024-01-02,Clothing,950,55
+2024-01-03,Electronics,1600,32
+2024-01-03,Clothing,1100,60
+2024-01-04,Food,2500,200
+2024-01-04,Electronics,1800,38
+2024-01-04,Clothing,1200,65
+2024-01-05,Food,2600,210
+2024-01-05,Electronics,2000,42
+2024-01-05,Clothing,1000,58
